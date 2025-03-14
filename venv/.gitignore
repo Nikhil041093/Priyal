@@ -1,0 +1,17 @@
+# Ignore the virtual environment folder
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment-specific files
+.env
+.vscode/
+.idea/
+
+# Ignore other unnecessary files
+*.log
+*.sqlite3
